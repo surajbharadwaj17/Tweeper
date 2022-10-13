@@ -30,12 +30,17 @@ We may derive helpful conclusions from the visualizations, such as how the produ
 ### Weather Trends
 ![Weather Trends](./images/Picture1.png)
 
-    Weather updates and the trend over a time frame 
+Weather updates and the trend over a time frame 
+
+
 
 ### Tweet Trends for apple
 ![Tweet Trends for apple](./images/Picture2.png)
 
-Tweet trends in terms of polarity of the tweets and frequency distribution of key words
+Tweet trends in terms of polarity of the tweets and frequency distribution of key 
+
+
 
 ### Tweet trends for a key word
 ![Trends for a key word](./images/Picture3.png)
+
